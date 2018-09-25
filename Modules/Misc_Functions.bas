@@ -5,7 +5,7 @@ Private Const DW As String = "REG_DWORD"
 
 
 
-' Two-argument Ackermann–Peter function
+' Two-argument Ackermannâ€“Peter function
 Public Function Ackermann(ByVal M As Long, ByVal N As Long) As Long
     Ackermann = IIf(M = 0, N + 1, Ackermann(M - 1, IIf(N = 0, 1, Ackermann(M, N - 1))))
 End Function
