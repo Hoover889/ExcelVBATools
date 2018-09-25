@@ -41,7 +41,7 @@ Sub Digest_MPlan()
       RowType = "Stock"
     ElseIf Application.WorksheetFunction.Sum(WSin.Range("D" & I & ":S" & I)) > 0 Then
       Select Case WSin.Cells(I, 3).Value
-        Case " D - Prévision":    RowType = "Forecasts M"
+        Case " D - PrÃ©vision":    RowType = "Forecasts M"
         Case " D - Commande":     RowType = "Orders M"
         Case "M Total Plan":      RowType = "M Total Plan"
         Case "Coverage":          RowType = "Coverage"
