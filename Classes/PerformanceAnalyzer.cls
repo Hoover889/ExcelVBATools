@@ -27,7 +27,6 @@ Attribute VB_Exposed = False
 '|   Version 2.0                                                                                                         |
 '|                                                                                                                       |
 '| Created By Ryan Hoover                                                                                                |
-'|            RHoover@us.Loreal.com                                                                                      |
 '-------------------------------------------------------------------------------------------------------------------------
 '|                                                                                                                       |
 '| The Performance Analyzer is a Tool to help you identify what parts of a macro are slowing it down.                    |
