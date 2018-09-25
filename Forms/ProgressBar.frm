@@ -29,7 +29,6 @@ Attribute VB_Exposed = False
 '|     |____/  \__,_||_|                                                                                                 |
 '|                                                                                                                       |
 '| Created By Ryan Hoover                                                                                                |
-'|            Ryan.Hoover@Loreal.com                                                                                     |
 '-------------------------------------------------------------------------------------------------------------------------
 '|                                                                                                                       |
 '| The Generic Progress Bar is a Tool to easily add a progress bar to any macro.                                         |
