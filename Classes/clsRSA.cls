@@ -78,7 +78,6 @@ Attribute VB_Exposed = False
 ' |---------------------------------------------------------------------|
 ' | Enjoy...                                                            |
 ' | Created By Ryan Hoover                                              |
-' |            Ryan.Hoover@LOreal.com                                   |
 ' |                                                                     |
 ' | Feel free to use or modify this code however you like but please    |
 ' | provide attribution. If you like my work be sure to say thanks.     |
