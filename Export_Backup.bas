@@ -7,7 +7,7 @@ Private Const Form   As Long = 3
 Private Const Doc    As Long = 100
   
 Public Function ExportVisualBasicCode(ByVal Directory As String, Optional ByRef WB As Workbook = Nothing) As Long
-  'directory = "C:\Users\ryan.hoover\OneDrive - L'Oréal\Code_Backups"
+    'directory = "C:\Test\"
   Dim VBComp As VBIDE.VBComponent
   Dim ext    As String
   
