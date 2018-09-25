@@ -35,7 +35,6 @@ Option Explicit
 '|---------------------------------------------------------------------------------|
 '| Enjoy...                                                                        |
 '| Created By Ryan Hoover                                                          |
-'|            Ryan.Hoover@LOreal.com                                               |
 '|                                                                                 |
 '| Feel free to use or modify this code  but please provide attribution            |
 '| If you like my work be sure to say thanks.                                      |
