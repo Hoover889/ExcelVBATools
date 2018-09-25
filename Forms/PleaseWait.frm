@@ -28,7 +28,6 @@ Attribute VB_Exposed = False
 '|          \/  \/  \__,_||_| \__|                                                                                       |
 '|                                                                                                                       |
 '| Created By Ryan Hoover                                                                                                |
-'|            Ryan.Hoover@Loreal.com                                                                                     |
 '-------------------------------------------------------------------------------------------------------------------------
 '|                                                                                                                       |
 '| The Please Wait Form is a Tool for when your macro does not have any way of making a progress bar                     |
